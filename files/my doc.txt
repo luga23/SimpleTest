@@ -2,3 +2,5 @@ Hi, this is a simple test with some adition
 This new change is supposed to go to the branch
 another change for the branch
 and more changes ;-)
+
+Ok the end branch edition
